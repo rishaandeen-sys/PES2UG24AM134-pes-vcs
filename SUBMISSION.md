@@ -6,46 +6,47 @@
 ## Phase 1: Object Storage
 
 ### Screenshot 1A — test_objects passing
-[Insert screenshot 1A here]
+![Screenshot 1A](1A.png)
 
 ### Screenshot 1B — find .pes/objects -type f
-[Insert screenshot 1B here]
+![Screenshot 1B](1B.png)
 
 ---
 
 ## Phase 2: Tree Objects
 
 ### Screenshot 2A — test_tree passing
-[Insert screenshot 2A here]
+![Screenshot 2A](2A.png)
 
 ### Screenshot 2B — xxd of raw tree object
-[Insert screenshot 2B here]
+![Screenshot 2B](2B.png)
 
 ---
 
 ## Phase 3: Index (Staging Area)
 
 ### Screenshot 3A — pes init, pes add, pes status
-[Insert screenshot 3A here]
+![Screenshot 3A](3A.png)
 
 ### Screenshot 3B — cat .pes/index
-[Insert screenshot 3B here]
+![Screenshot 3B](3B.png)
 
 ---
 
 ## Phase 4: Commits and History
 
 ### Screenshot 4A — pes log with three commits
-[Insert screenshot 4A here]
+![Screenshot 4A](4A.png)
 
 ### Screenshot 4B — find .pes -type f | sort
-[Insert screenshot 4B here]
+![Screenshot 4B](4B.png)
 
 ### Screenshot 4C — cat .pes/refs/heads/main and cat .pes/HEAD
-[Insert screenshot 4C here]
+![Screenshot 4C](4C.png)
 
 ### Final — make test-integration
-[Insert final screenshot here]
+![Final 1](final1.png)
+![Final 2](final2.png)
 
 ---
 
